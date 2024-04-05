@@ -1,0 +1,24 @@
+{
+  "name": "gitflowanimated",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sevmezabdullah/git-flow",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "shortid": "^2.2.8",
+    "styled-components": "^3.1.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
