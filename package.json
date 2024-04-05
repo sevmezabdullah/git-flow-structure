@@ -1,7 +1,7 @@
 {
   "name": "gitflowanimated",
   "version": "0.1.0",
-  "homepage": "https://github.com/sevmezabdullah/git-flow",
+  "homepage": "https://github.com/sevmezabdullah/git-flow-structure",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
